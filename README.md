@@ -248,7 +248,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
             <img
               alt="Project Image"
               class="img-fluid"
-              src="assets/project.jpg"
+              src="assets/soheil-travels-tydv.png"
             />
           </div>
         </a>
